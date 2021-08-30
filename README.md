@@ -1,5 +1,5 @@
 
-## Hey <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">, I'm [Elias Soykat!](https://elias-soykat.netlify.app/) 
+## Hey <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="1px"> I'm [Elias Soykat!](https://elias-soykat.netlify.app/) 
 
 <br/>
 
