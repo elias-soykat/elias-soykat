@@ -28,6 +28,6 @@
 
 
 
-<p><img align="right" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-soykat&show_icons=true&locale=en&layout=compact&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Soykat's GitHub language states" alt="ovi" /></p>
+<p><img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-soykat&show_icons=true&locale=en&layout=compact&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Soykat's GitHub language states" alt="ovi" /></p>
 
 
