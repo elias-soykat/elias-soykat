@@ -1,5 +1,5 @@
 
-### Hey there, I'm [Elias Soykat!](https://elias-soykat.netlify.app/) <img src="https://raw.githubusercontent.com/Kathryn-Jie/Kathryn-Jie/main/wave.gif" style="position: relative; top: 14px;" width="50px"/>
+### Hey, I'm [Elias Soykat!](https://elias-soykat.netlify.app/) <img src="https://raw.githubusercontent.com/Kathryn-Jie/Kathryn-Jie/main/wave.gif" width="45px"/>
 
 
 ## I'm a Passionate Web Developer
