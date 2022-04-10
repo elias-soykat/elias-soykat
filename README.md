@@ -49,7 +49,6 @@
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-
 <br/>
 
 <br/>
@@ -58,11 +57,8 @@
 
 <br/>
 <br/>
-
 
 	
 | <a href="https://github.com/elias-soykat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=elias-soykat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=79fe96&bg_color=1A2B34" alt="Elias's github stats" /></a> | <a href="https://github.com/elias-soykat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elias-soykat&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-	
-<br/>
