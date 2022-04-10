@@ -64,7 +64,7 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=elias-soykat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=79fe96&bg_color=1A2B34" alt="Soykat's GitHub Stats" />
 
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-soykat&show_icons=true&locale=en&layout=layout&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Soykat's GitHub language states" alt="ovi" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-soykat&show_icons=true&locale=en&layout=layout&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Soykat's GitHub language states" alt="ovi" />
 
 <br/><br/>
 	
