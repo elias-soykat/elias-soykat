@@ -11,7 +11,7 @@
 - 🔭 I’m working with React Js, Node Js Projects
 - 🌱 I’m currently working at [Penta Global Limited!](https://www.pentabd.com/)
 - 💬 Ask me about Programming or Web Development
-- 🥅 2022 Goals: Microservice, Cloud computing, Software architechture
+- 🥅 2022 Goals: Microservice, Data structures and Algorithms, Software architechture
 - ⚡ Fun fact: I love myself updated with all latest technologies and tools .
 
 &emsp;
