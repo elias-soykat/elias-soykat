@@ -5,7 +5,7 @@
 <br/>
 
 - 🔭 I’m working with React Js, Node Js Projects
-- 🌱 I’m currently working at [Penta Global Limited!](https://www.pentabd.com/)
+- 🌱 I’m currently working at [Dorik Bangladesh!](https://dorik.com/)
 - 💬 Ask me about Programming or Web Development
 - 🥅 2022 Goals: Microservice, Data structures and Algorithms, Software architechture
 <br/>
