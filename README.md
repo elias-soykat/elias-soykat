@@ -16,4 +16,11 @@
 	<a href="https://www.linkedin.com/in/elias-soykat"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" alt="LinkedIn"/></a>
  &nbsp;	<a href="https://github.com/elias-soykat"><img src="https://img.icons8.com/bubbles/60/000000/github.png" alt="GitHub"/></a>
 
- <a href="https://github.com/elias-soykat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=elias-soykat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=79fe96&bg_color=1A2B34" alt="Elias's github stats" /></a> 
+### Github Statistic
+	
+<p align="left">
+<a href="https://github.com/elias-soykat">
+  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elias-soykat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elias-soykat&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
