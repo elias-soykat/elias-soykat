@@ -1,11 +1,5 @@
 
 ## Hey, I'm [Elias Soykat!](https://elias-soykat.netlify.app/)<img src="https://raw.githubusercontent.com/Kathryn-Jie/Kathryn-Jie/main/wave.gif" width="45"/>
-<br/>
-
-- 🔭 I’m working with React Js, Node Js Projects
-- 🌱 I’m currently working at [Dorik Bangladesh!](https://dorik.com/)
-- 💬 Ask me about Programming or Web Development
-- 🥅 2022 Goals: Microservice, Data structures and Algorithms, Software architechture
 
 ### Connect with me:
   
