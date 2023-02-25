@@ -1,7 +1,10 @@
 
 ## Hey, I'm [Elias Soykat!](https://elias-soykat.netlify.app/)<img src="https://raw.githubusercontent.com/Kathryn-Jie/Kathryn-Jie/main/wave.gif" width="45"/>
 
-### Connect with me:
+### A passionate Software Engineer from Bangladesh
+
+</br>
+  
   
 <p align="left">
 	<a href="https://www.linkedin.com/in/elias-soykat"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" alt="LinkedIn"/></a>
