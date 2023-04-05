@@ -1,7 +1,7 @@
 
 ## Hey, I'm [Elias Soykat!](https://elias-soykat.netlify.app/)<img src="https://raw.githubusercontent.com/Kathryn-Jie/Kathryn-Jie/main/wave.gif" width="45"/>
 
-### A passionate Software Developer from Bangladesh
+### A passionate Software Engineer from Bangladesh
 
 </br>
   
