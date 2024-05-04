@@ -1,4 +1,4 @@
-### Hey, I'm [Elias Soykat!](https://elias-soykat.hashnode.dev)<img src="https://raw.githubusercontent.com/Kathryn-Jie/Kathryn-Jie/main/wave.gif" width="45"/>
+### Hey, I'm [Elias Soykat!](https://elias-soykat.me)<img src="https://raw.githubusercontent.com/Kathryn-Jie/Kathryn-Jie/main/wave.gif" width="45"/>
 
 #### A Full Stack Software Developer based in Dhaka.
 
